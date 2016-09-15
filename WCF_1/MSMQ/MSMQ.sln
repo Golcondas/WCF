@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQWCF", "MSMQWCF\MSMQWCF.csproj", "{2CF5125F-06D8-4F5E-8D26-1821E50ED449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQHOST", "MSMQHOST\MSMQHOST.csproj", "{33C567D7-E833-47C7-8AA0-D46EE2FAF6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQClient", "MSMQClient\MSMQClient.csproj", "{32E617D7-5705-483E-87AB-5BF11E5DCF5C}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF5125F-06D8-4F5E-8D26-1821E50ED449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF5125F-06D8-4F5E-8D26-1821E50ED449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF5125F-06D8-4F5E-8D26-1821E50ED449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF5125F-06D8-4F5E-8D26-1821E50ED449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C567D7-E833-47C7-8AA0-D46EE2FAF6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C567D7-E833-47C7-8AA0-D46EE2FAF6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C567D7-E833-47C7-8AA0-D46EE2FAF6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C567D7-E833-47C7-8AA0-D46EE2FAF6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E617D7-5705-483E-87AB-5BF11E5DCF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E617D7-5705-483E-87AB-5BF11E5DCF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E617D7-5705-483E-87AB-5BF11E5DCF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E617D7-5705-483E-87AB-5BF11E5DCF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{2E5B11DF-9221-4BDF-A135-2DD76C8F30B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayPlane", "PlayPlane\PlayPlane.csproj", "{FB8149D1-7FAE-4519-9103-D343B0013A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHost", "ConsoleHost\ConsoleHost.csproj", "{AAADC21A-5EB8-446E-81CA-3381F86BCADC}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5B11DF-9221-4BDF-A135-2DD76C8F30B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5B11DF-9221-4BDF-A135-2DD76C8F30B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5B11DF-9221-4BDF-A135-2DD76C8F30B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5B11DF-9221-4BDF-A135-2DD76C8F30B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8149D1-7FAE-4519-9103-D343B0013A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8149D1-7FAE-4519-9103-D343B0013A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8149D1-7FAE-4519-9103-D343B0013A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8149D1-7FAE-4519-9103-D343B0013A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAADC21A-5EB8-446E-81CA-3381F86BCADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAADC21A-5EB8-446E-81CA-3381F86BCADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAADC21A-5EB8-446E-81CA-3381F86BCADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAADC21A-5EB8-446E-81CA-3381F86BCADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
